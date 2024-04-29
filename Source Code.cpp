@@ -13,8 +13,8 @@ Servo myservo;
 char ssid[] = "Nusa kos";  // Ganti dengan nama WiFi Anda
 char pass[] = "1223345";  // Ganti dengan password WiFi Anda
 
-int echoPin = D1;
-int trigPin = D0;
+int echoPin = D6;
+int trigPin = D5;
 int servoPin = D4;
 
 int servostandby = 100;
